@@ -1,1 +1,1 @@
-# semi-autonomous-wheelchair-with-real-time-object-detection
+# Semi Autonomous Wheelchair with Real Time Object Detection
