@@ -1,1 +1,6 @@
 # Semi Autonomous Wheelchair with Real Time Object Detection
+
+## Description
+Disability is part of being human. According to the World Health Organization(WHO) an estimated 1.3 billion people – about 16% of the global population – currently experience significant disability.
+In our senior design project we introduce a Semi-Autonomous wheelchair for the disabled people. Autonomous wheelchair is a technology that is appropriate for people who have lost mobility due to brain injury or the loss of limbs but or loss of eyesight. The technology can also enhance safety for users who use ordinary joystick- controlled powered wheelchairs, by preventing collisions with walls, fixed objects, furniture and other people. This project is intended towards contributing to the helping hand of the paralyzed patients. This is a multifunctional wheelchair that helps the is a multifunctional wheelchair that helps the  unable person to control it in ways like automatic obstacle detection control and remote control. The main features of the wheel chairs are: Automotive format - (detects obstacles by YOLOv7 and finds new path to move). Remote controlled feature - (It's controlled by any android device through bluetooth connectivity). Security assurance - ( It can assure security of the disabled person by keeping record of the data of the moving paths through camera.)
+
